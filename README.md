@@ -26,7 +26,7 @@ A high-accuracy deep learning system built to identify and classify rice leaf di
 ## 📸Accuracy
 
 <p align="center">
-  <img src="assets/prediction_sample.png" width="600"/>
+  <img src="assets/Screenshot 2025-07-03 142111.png" width="600"/>
 </p>
 
 ---
